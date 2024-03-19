@@ -1,4 +1,4 @@
 def sum_num(n):
     return n 
-N = 0
+N = 1
 print(sum_num(N))
